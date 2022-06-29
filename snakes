@@ -1,0 +1,40 @@
+---
+title: "final project"
+author: "skyler jorgensen"
+date: "06-29-2022"
+output: pdf_document
+---
+
+```{r}
+install.packages("dpylr")
+install.packages("ggplot")
+install.packages("ggmap")
+install.packages("lubridate")
+install.packages("tidyverse")
+install.packages("maps")
+install.packages("ggthemes")
+
+library(dpylr)
+library(ggplot)
+library(ggmap)
+library(lubridate)
+library(tidyverse)
+library(maps)
+library(ggthemes)
+
+
+snakes = c("fountain", "chex", "LC", "scarlett", "remy")
+location = c("table rock", "edisto", "table rock", "congaree", "congaree")
+sex = c("male", "male", "male", "female", "male")
+inches = c(14.3, 17.8, 22.4, 16.1, 17.9)
+
+snake_data <- data.frame(snakes, location, sex, inches)
+
+snake_data
+
+X <- c("fountain", "chex", "LC", "scarlett", "remy")
+Y <- c(14.3, 17.8, 22.4, 16.1, 17.9)
+
+plot(X, Y, xlab = "snake name", ylab = "size of snake in inches")
+
+
