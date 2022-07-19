@@ -1,3 +1,5 @@
 # projectsj
 snakes
 I have studied five snakes from the congaree and table rock locations to see their moving habits and their temperatures throughout the season. The snakes studied were northern watersnakes. These snakes are not harmful except for small little bites.
+
+The idea of this research was to figure out why the entire last round of snakes died. i joined in on this research and helped to find these snakes once a week. once we caught the snakes the first time we cut them open and stuck a traking device in them. In order for the device and surgery to not get infected we had to do all of this work before it got cold so each snake can heal properly. The snakes were then released in their original locations and were tracked once a week to make sure they were still alive. Because of the tracking device you can see their location but in order to confirm we have a live sample you must recapture and lay eyes on the snake. Each snake has very identifyable markings making it easy to confirm which snake we had.
